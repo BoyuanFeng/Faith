@@ -1,0 +1,9 @@
+01_relu_verification.cu:
+This version implements relu verification without concretize.
+
+02_relu_verfication.cu:
+This version implements relu verification with concretize.
+
+04_dot_product_verification.cu:
+This version of dot_product_b supports only dim_out as a multiplier of 32
+
